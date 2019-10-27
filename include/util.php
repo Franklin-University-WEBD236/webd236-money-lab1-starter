@@ -1,4 +1,6 @@
 <?php
+
+
   
 function safeParam($arr, $index, $default="") {
   if ($arr && isset($arr[$index])) {
