@@ -1,4 +1,4 @@
-# WEBD 236 Lab 1 starter
+# WEBD 236 Lab 1 Starter Code
 
 Applications to send and receive money are very commonplace these days.  You can think of this application as a "Venmo" or "PayPal" type application. 
 A transaction is a case where money was sent from one individual to another. Transactions have an amount, subject, message, sender, receiver, and a date the transaction took place.  
