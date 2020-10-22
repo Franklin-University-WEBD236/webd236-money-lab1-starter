@@ -1,6 +1,13 @@
 PRAGMA foreign_keys=OFF;
 
 BEGIN TRANSACTION;
+
+DROP TABLE `user`;
+CREATE TABLE `user`
+(
+  id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL;
+);
+
 DROP TABLE `transactions`;
 CREATE TABLE `transactions`
 (
